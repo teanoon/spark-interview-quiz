@@ -105,16 +105,11 @@ class SimpleQuizSpec extends Specification { def is = s2"""
    *
    *
    *
-   *
-   *
-   *
    */
 
   /*
    * ==================================================================
    * 6/6 Do a English word count from a file in Spark
-   *
-   *
    *
    *
    *
