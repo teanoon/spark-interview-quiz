@@ -6,7 +6,7 @@ import org.specs2.matcher.MatchResult
 /**
   * This is a simple java quiz for interview.
   */
-class SimpleQuizSpec extends Specification { def is = s2"""
+class SimpleQuizSpec extends Specification { def is = skipAll ^ s2"""
   This is a specification to check the basic Spark skills
   The Spark skills should include:
     Fundamental concept about reserved words
