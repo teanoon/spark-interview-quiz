@@ -95,7 +95,7 @@ class SimpleQuizSpec extends Specification { def is = skipAll ^ s2"""
 
   /*
    * ==================================================================
-   * 5/6 Do a English word count from a file in Scala
+   * 5/6 Do an English word count from a file in Scala
    *
    *
    *
@@ -109,7 +109,7 @@ class SimpleQuizSpec extends Specification { def is = skipAll ^ s2"""
 
   /*
    * ==================================================================
-   * 6/6 Do a English word count from a file in Spark
+   * 6/6 Do an English word count from a file in Spark
    *
    *
    *
